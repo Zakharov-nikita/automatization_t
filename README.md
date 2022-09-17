@@ -1,2 +1,3 @@
 # automatization_t
-autotests
+autotests and other stuff
+mostly autotests
